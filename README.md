@@ -2,7 +2,7 @@
 
 Jag är en glad tjej född  1997 som för tillfället studerar till att bli webbutvecklare på	[Mittuniversitetet](https://www.miun.se/) i Sundsvall. Min utbildning startade hösten 2021 och förväntas vara klar till sommaren 2023.
 
-### Jag har för nuvarande lärt mig språken...
+#### Jag har för nuvarande lärt mig språken...
 - HTML
 - CSS
 - JavaScript
