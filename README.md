@@ -6,6 +6,7 @@ Jag är en glad tjej född  1997 som för tillfället studerar till att bli webb
 - HTML
 - CSS
 - JavaScript
+- PHP
 
 <!--
 **Sezzas/Sezzas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
